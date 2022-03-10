@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bio</string>
+    <string name="name">Chary Nepesov</string>
+    <string name="my_bio">Hello, my name is Chary Nepesov, and I teach programming.
+    \n\nMy mission is to help 1 Million students reach their goal of becoming the best
+    I want to make you, a well-rounded developer.
+    I have extensive experience in Mobile App Development and Web
+    I am also the founder of <u><i>Build Apps With Chary</i></u>, where students are
+    well-rounded developers - developers who have soft and technical skills.
+    Showing students how to make amazing applications/software is a gratifying experience.
+    That\'s why I have been teaching online for the past 5 years.
+    My goal is to make you a great developer, no matter your experience.
+    I enjoy spending time with my family.
+    Thank you so much for being here.</string>
+    <string name="hobby_hint">Enter your hobbies</string>
+    <string name="done_text">Done</string>
+    <string name="image_description">Android robot image</string>
+    <string name="auto_fill_hints">classical guitar</string>
+    <string name="say_something">Say Something</string>
+</resources>
